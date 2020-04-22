@@ -5,7 +5,8 @@
 
 The website for teacher-rated by sending messages that their sender (the student) is hidden.
 
-Features:
+#### Features:
+
 1. Students can rate the teacher skills.
 2. Students can leave comments under their rate.
 3. Teachers should have profiles and a short bio about them + profile picture.
