@@ -3,7 +3,7 @@
 
 ### An app where students can rate their teachers.
 
-The website for teacher-rated by sending messages that their sender (the student) is hidden.
+The website for rating the teachers in schools by (the students).
 
 #### Features:
 
