@@ -37,8 +37,12 @@ The website for rating the teachers in schools by (the students).
 ![Find](https://github.com/NourMalakeh/RateYourTeacher/blob/master/findPage.png)
 
 
-#### Students rate their teachers into three categories 
+5. Teacher Profile
 
-#### (Easiness, Helpfulness, Knowledge ), add comments
+#### Students rate their teachers in three categories 
+
+#### (Easiness, Helpfulness, Knowledge ) in addition to write a comment.
+
+![Teacher Profile](https://github.com/NourMalakeh/RateYourTeacher/blob/master/teacherProfile.png)
 
 
