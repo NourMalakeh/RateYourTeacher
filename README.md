@@ -19,3 +19,8 @@ The website for rating the teachers in schools by (the students).
 1. HomePage
 
 ![HoemPage](https://github.com/NourMalakeh/RateYourTeacher/blob/master/HomePage.png)
+
+
+2. SignUp page
+
+![SignUp](https://github.com/NourMalakeh/RateYourTeacher/blob/master/SignUp.png)
