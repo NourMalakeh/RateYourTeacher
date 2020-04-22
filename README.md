@@ -14,6 +14,6 @@ The website for rating the teachers in schools by (the students).
 
 #### Desing
 
-**we design three drafts, and here is the final one using Figma
+**we design three drafts, and here is the final one using Figma**
 
 ![HoemPage](https://github.com/NourMalakeh/RateYourTeacher/blob/master/HomePage.png)
