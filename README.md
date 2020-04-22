@@ -46,3 +46,7 @@ The website for rating the teachers in schools by (the students).
 ![Teacher Profile](https://github.com/NourMalakeh/RateYourTeacher/blob/master/teacherProfile.png)
 
 
+
+
+
+#### Complete Design Link on Figma [prototype](https://www.figma.com/file/es4h6XVMQgi6DjiNaSfHV9/final-Project?node-id=0%3A1).
