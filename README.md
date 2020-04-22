@@ -28,3 +28,17 @@ The website for rating the teachers in schools by (the students).
 3. SignIn Page
 
 ![SignIn](https://github.com/NourMalakeh/RateYourTeacher/blob/master/SignIn.png)
+
+
+#### Students could search to find the teacher whould like to rate
+
+4. Find Teacher Page
+
+![Find](https://github.com/NourMalakeh/RateYourTeacher/blob/master/findPage.png)
+
+
+#### Students rate their teachers into three categories 
+
+#### (Easiness, Helpfulness, Knowledge ), add comments
+
+
