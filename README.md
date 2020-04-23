@@ -18,32 +18,32 @@ The website for rating the teachers in schools by (the students).
 
 1. HomePage
 
-![HoemPage](https://github.com/NourMalakeh/RateYourTeacher/blob/master/HomePage.png)
+![HoemPage](https://github.com/NourMalakeh/RateYourTeacher/blob/master/design/HomePage.png)
 
 
 2. SignUp Page
 
-![SignUp](https://github.com/NourMalakeh/RateYourTeacher/blob/master/SignUp.png)
+![SignUp](https://github.com/NourMalakeh/RateYourTeacher/blob/master/design/SignUp.png)
 
 3. SignIn Page
 
-![SignIn](https://github.com/NourMalakeh/RateYourTeacher/blob/master/SignIn.png)
+![SignIn](https://github.com/NourMalakeh/RateYourTeacher/blob/master/design/SignIn.png)
 
 
 #### Students could search to find the teacher whould like to rate
 
 4. Find Teacher Page
 
-![Find](https://github.com/NourMalakeh/RateYourTeacher/blob/master/findPage.png)
+![Find](https://github.com/NourMalakeh/RateYourTeacher/blob/master/design/findPage.png)
 
 
 5. Teacher Profile
 
-#### Students rate their teachers in three categories 
+#### Students can rate their teachers in three categories 
 
 #### (Easiness, Helpfulness, Knowledge ) in addition to write a comment.
 
-![Teacher Profile](https://github.com/NourMalakeh/RateYourTeacher/blob/master/teacherProfile.png)
+![Teacher Profile](https://github.com/NourMalakeh/RateYourTeacher/blob/master/design/teacherProfile.png)
 
 
 
